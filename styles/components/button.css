@@ -1,0 +1,12 @@
+.my-btn {
+    background-color: var(--color-primary);
+    border: 0;
+
+}
+
+.my-btn-danger {
+    background-color: var(--danger-color);
+
+
+
+}
